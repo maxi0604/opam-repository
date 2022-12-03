@@ -34,7 +34,7 @@ conflicts: [
   "js_of_ocaml-compiler" {< "3.6.0"}
   "jbuilder" {= "transition"}
 ]
-dev-repo: "git+https://github.com/maxi0604/dune.git"
+dev-repo: "https://github.com/maxi0604/dune.git"
 build: [
   ["ocaml" "boot/bootstrap.ml" "-j" jobs]
   ["./_boot/dune.exe" "build" "dune.install" "--release" "--profile" "dune-bootstrap" "-j" jobs]
