@@ -48,4 +48,8 @@ depends: [
 ]
 url {
   src: "https://github.com/maxi0604/dune/releases/download/3.6.1/dune-3.6.1.tbz"
+  checksum: [
+    "sha256=844e881759c88134694b11994241dadb99ff20db43ab7ee73277042c526cc59e"
+    "sha512=e103d145930f34ec357a964c850b89c521e398fdd1563732017ab5a81c150c855f95dc0524ca545c7bc57e42d5978e083d24cfe7dd6e3b8e4dfdada5772f621d"
+  ]
 }
