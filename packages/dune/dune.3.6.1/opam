@@ -47,5 +47,5 @@ depends: [
   "base-threads"
 ]
 url {
-  src: "https://github.com/maxi0604/dune/releases/download/361/dune361fix.tbz"
+  src: "https://github.com/maxi0604/dune/releases/download/361-2/dune361fix2.tbz"
 }
